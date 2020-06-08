@@ -1,0 +1,10 @@
+#zad2{
+	margin-top: 40px;
+}
+.nom1:hover{
+
+	animation: hover .6s;
+}
+@keyframes hover {
+  50% { transform: scale(0.8); }
+}
